@@ -1,0 +1,32 @@
+.header-container{
+    background-color: aqua;
+    padding:20px;
+
+}
+.header-list-container{
+    background-color: bisque;
+    padding:10px;
+}
+.header-list{
+    list-style-type: none;
+    display: flex;
+}
+.header-list-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-item{
+    margin-right:50px;
+}
+.project-image{
+    height:200px;
+    width:200px
+}
+.avatar{
+    height:50px;
+    width:50px;
+}
+.item-container{
+    margin:2px solid black;
+}
